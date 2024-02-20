@@ -15,8 +15,8 @@
         </div>
         <span class="block text-600 font-medium mb-3">🔔使用提示</span>
         <h5 class="text-600">
-          🎉OurWorld域名服务永久免费，欢迎使用！<br />
-          🎉访问OurWorld主站 <a href="https://ourworld.wuyuan.dev/" target="_blank">立即访问</a>！<br />
+          OurWorld Domain 欢迎使用！<br />
+          访问 <a href="https://ourworld.wuyuan.dev/" target="_blank">OurWorld</a> 主站 <br />
         </h5>
         <br />
         <span class="block text-600 font-medium mb-3">🏆常用功能</span>

@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container">
-        <p>OurWorld域名服务开发者<a href="https://wuyuan.dev" class="blue">孙悟元</a>是厚浪开发组成员，本站使用未修改的官方服务端，有关问题可以直接向<a href="https://langs.ink" class="blue">厚浪</a>反馈<br/>若本站服务不可用请QQ1847261658，周末上线</p>
+        <p>OurWorld Domain开发者<a href="https://wuyuan.dev" class="blue">孙悟元</a>是厚浪开发组成员，本站使用未修改的官方服务端，有关问题可以直接向<a href="https://langs.ink" class="blue">厚浪</a>反馈<br/>若本站服务不可用请QQ1847261658，周末上线</p>
     </div>
         <div class="iframe-container">
             <iframe ref="myIframe" src="https://langsteam.feishu.cn/share/base/form/shrcnfx5BilO3R6mLpnxRUf01ig" width="100%" frameborder="0"></iframe>

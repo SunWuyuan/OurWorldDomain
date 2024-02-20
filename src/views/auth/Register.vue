@@ -78,7 +78,7 @@ const sendCode = () => {
 
 	<div class="surface-ground flex align-items-center justify-content-center min-h-screen min-w-screen overflow-hidden">
 		<div class="flex flex-column align-items-center justify-content-center">
-			<a href="/"><img src="@/assets/logo.svg" alt="Logo" class="logo" /></a><br>
+			<img src="/logo.svg" alt="Logo" class="logo" /><br>
 			<div
 				style="border-radius: 56px; padding: 0.3rem; background: linear-gradient(180deg, var(--primary-color) 10%, rgba(33, 150, 243, 0) 30%)">
 				<div class="w-full surface-card py-8 px-5 sm:px-8" style="border-radius: 53px">
@@ -109,9 +109,10 @@ const sendCode = () => {
 								style="color: var(--primary-color)">已有账号？去登录</router-link>
 							<div>
 								<Checkbox v-model="agree" :binary="true" />
-								<label class="ml-2">
-									<a href="https://forum.houlangs.com/d/2-hou-lang-zheng-ce-lie-biao" target="_blank"
-										class="font-medium no-underline ml-2 text-right cursor-pointer">同意OurWorld全部使用政策</a>
+								<label class="ml-2">同意OurWorld
+									<a href="https://wuyuan.dev/privacy-policy/terms-of-service.html" target="_blank"
+										class="font-medium no-underline ml-2 text-right cursor-pointer">用户协议</a><a href="https://wuyuan.dev/privacy-policy/privacy-policy.html" target="_blank"
+										class="font-medium no-underline ml-2 text-right cursor-pointer">隐私政策</a>
 								</label>
 							</div>
 						</div>

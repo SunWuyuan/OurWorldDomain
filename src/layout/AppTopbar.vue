@@ -103,7 +103,7 @@ const toggle = (event) => {
 <template>
     <div class="layout-topbar">
         <router-link to="/" class="layout-topbar-logo">
-            <img src="@/assets/logo.svg" alt="Logo" class="logo" />
+            <img src="/logo.svg" alt="Logo" class="logo" />
         </router-link>
 
         <button class="p-link layout-menu-button layout-topbar-button" @click="onMenuToggle()">
