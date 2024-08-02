@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const axiosIns = axios.create({
-baseURL: 'https://langsapi.190823.xyz',
+baseURL: 'https://langsapi.onrender.com',
 	timeout: 20000
 })
 
