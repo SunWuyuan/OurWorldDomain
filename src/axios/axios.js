@@ -2,7 +2,6 @@ import axios from 'axios'
 
 const axiosIns = axios.create({
 baseURL: 'https://langsapi.onrender.com',
-	timeout: 20000
 })
 
 // 添加请求拦截器
